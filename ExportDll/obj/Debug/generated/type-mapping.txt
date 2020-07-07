@@ -1,0 +1,13 @@
+com/unfyd/pocarr/BuildConfig = Com.Unfyd.Pocarr.BuildConfig
+  <init>()V = .ctor()
+  APPLICATION_ID = ApplicationId
+  BUILD_TYPE = BuildType
+  DEBUG = Debug
+  FLAVOR = Flavor
+  LIBRARY_PACKAGE_NAME = LibraryPackageName
+  VERSION_CODE = VersionCode
+  VERSION_NAME = VersionName
+message/MyMessage = Message.MyMessage
+  <init>()V = .ctor()
+  byeMessage()Ljava/lang/String; = ByeMessage()
+  helloMessage()Ljava/lang/String; = HelloMessage()
